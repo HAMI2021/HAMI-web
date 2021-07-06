@@ -79,7 +79,7 @@ jekyll -v
     # run the following command in the terminal
     # then the project will be cloned to your desktop
     cd desktop
-    git clone https://github.com/Euphemia111/HAMI.git
+    git clone https://github.com/HAMI2021/HAMI-web.git
     ```
 
 ## 3. run the project
