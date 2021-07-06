@@ -88,7 +88,7 @@ jekyll -v
 # enter the **try_construct** folder
 # for instance:
 cd desktop
-cd HAMI
+cd HAMI-web
 cd web
 
 # then type:
